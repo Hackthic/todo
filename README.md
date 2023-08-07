@@ -12,3 +12,7 @@ every beginner should do this project once.
 # motivation :
 when you complete this project and you used your own made system then you will get motivation to do these like stuff which really help you to grow in your coding journey.
 
+#hackthic 
+# hackthic
+follow on the instagram # hackthic
+
